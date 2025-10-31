@@ -1,0 +1,898 @@
+[
+  {
+    "id": "es-gov-q1",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es la ley suprema de la nación?",
+    "options": ["La Declaración de Independencia", "La Constitución", "La Carta de Derechos", "Los Artículos de la Confederación"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q2",
+    "category": "Gobierno Americano",
+    "text": "¿Qué hace la Constitución?",
+    "options": ["Establece el gobierno", "Define el gobierno", "Protege los derechos básicos de los estadounidenses", "Todas las anteriores"],
+    "answer": 3
+  },
+  {
+    "id": "es-gov-q3",
+    "category": "Gobierno Americano",
+    "text": "Las primeras tres palabras de la Constitución contienen la idea del autogobierno. ¿Cuáles son estas palabras?",
+    "options": ["Nosotros el Pueblo", "El Congreso hará", "Nosotros los Británicos", "Vida, Libertad, Búsqueda"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q4",
+    "category": "Gobierno Americano",
+    "text": "¿Qué es una enmienda?",
+    "options": ["Un cambio (a la Constitución)", "Un preámbulo a la Constitución", "Un borrador de una nueva ley", "Una orden ejecutiva del Presidente"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q5",
+    "category": "Gobierno Americano",
+    "text": "¿Con qué nombre se conocen las primeras diez enmiendas a la Constitución?",
+    "options": ["La Declaración de Independencia", "La Carta de Derechos", "Los Artículos Federalistas", "Los Artículos de la Confederación"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q6",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es un derecho o libertad que garantiza la Primera Enmienda?",
+    "options": ["Expresión", "Derecho a portar armas", "Libertad de no ser torturado", "Derecho a votar por el Presidente"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q7",
+    "category": "Gobierno Americano",
+    "text": "¿Cuántas enmiendas tiene la Constitución?",
+    "options": ["Diez (10)", "Veintisiete (27)", "Cincuenta (50)", "Cien (100)"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q8",
+    "category": "Gobierno Americano",
+    "text": "¿Qué hizo la Declaración de Independencia?",
+    "options": ["Anunció nuestra independencia (de Francia)", "Anunció nuestra independencia (de Gran Bretaña)", "Declaró el derecho al voto de la mujer", "Declaró el fin de la Guerra Civil"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q9",
+    "category": "Gobierno Americano",
+    "text": "¿Cuáles son dos derechos en la Declaración de Independencia?",
+    "options": ["La vida y la libertad", "La expresión y la religión", "Votar y portar armas", "Trabajar y pagar impuestos"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q10",
+    "category": "Gobierno Americano",
+    "text": "¿En qué consiste la libertad de religión?",
+    "options": ["Debes practicar la religión del estado", "Se puede practicar cualquier religión o no practicar ninguna", "El gobierno puede elegir tu religión", "Solo ciertas religiones pueden reunirse"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q11",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es el sistema económico de los Estados Unidos?",
+    "options": ["Economía socialista", "Economía comunista", "Economía capitalista", "Economía feudal"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q12",
+    "category": "Gobierno Americano",
+    "text": "¿En qué consiste el “estado de derecho” (ley y orden)?",
+    "options": ["El Presidente está por encima de la ley", "Los funcionarios del gobierno están por encima de la ley", "Todos deben obedecer la ley", "Solo los ciudadanos deben obedecer la ley"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q13",
+    "category": "Gobierno Americano",
+    "text": "Nombre una rama o parte del gobierno.",
+    "options": ["Congreso", "Los estados", "Las Naciones Unidas", "La policía"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q14",
+    "category": "Gobierno Americano",
+    "text": "¿Qué es lo que evita que una rama del gobierno se vuelva demasiado poderosa?",
+    "options": ["El Presidente", "Pesos y contrapesos (checks and balances)", "El pueblo", "La Corte Suprema"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q15",
+    "category": "Gobierno Americano",
+    "text": "¿Quién está a cargo de la rama ejecutiva?",
+    "options": ["El Congreso", "La Corte Suprema", "El Presidente", "El Secretario de Estado"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q16",
+    "category": "Gobierno Americano",
+    "text": "¿Quién crea las leyes federales?",
+    "options": ["El Presidente", "La Corte Suprema", "Los estados", "El Congreso"],
+    "answer": 3
+  },
+  {
+    "id": "es-gov-q17",
+    "category": "Gobierno Americano",
+    "text": "¿Cuáles son las dos partes que integran el Congreso de los EE. UU.?",
+    "options": ["El Presidente y el Gabinete", "El Senado y la Cámara (de Representantes)", "La Corte Suprema y las cortes estatales", "El Departamento de Estado y el Departamento de Defensa"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q18",
+    "category": "Gobierno Americano",
+    "text": "¿Cuántos senadores de los EE. UU. hay?",
+    "options": ["Cincuenta (50)", "Cien (100)", "Cuatrocientos treinta y cinco (435)", "Depende de la población del estado"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q19",
+    "category": "Gobierno Americano",
+    "text": "¿De cuántos años es el término de elección de un senador de los EE. UU.?",
+    "options": ["Dos (2)", "Cuatro (4)", "Seis (6)", "Vitalicio"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q20",
+    "category": "Gobierno Americano",
+    "text": "¿Cuántos miembros votantes tiene la Cámara de Representantes?",
+    "options": ["Cien (100)", "Doscientos (200)", "Cuatrocientos treinta y cinco (435)", "Quinientos (500)"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q21",
+    "category": "Gobierno Americano",
+    "text": "¿De cuántos años es el término de elección de un representante de los EE. UU.?",
+    "options": ["Dos (2)", "Cuatro (4)", "Seis (6)", "Ocho (8)"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q22",
+    "category": "Gobierno Americano",
+    "text": "Dé el nombre de su representante a nivel nacional.",
+    "options": ["Las respuestas variarán", "Nancy Pelosi", "Kevin McCarthy", "Chuck Schumer"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q23",
+    "category": "Gobierno Americano",
+    "text": "¿Por qué algunos estados tienen más representantes que otros?",
+    "options": ["Debido a la superficie territorial del estado", "Debido a la población del estado", "Debido a la riqueza del estado", "Debido a cuándo se fundó el estado"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q24",
+    "category": "Gobierno Americano",
+    "text": "¿De cuántos años es el término de elección de un presidente?",
+    "options": ["Dos (2)", "Cuatro (4)", "Seis (6)", "Ocho (8)"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q25",
+    "category": "Gobierno Americano",
+    "text": "¿En qué mes votamos por el presidente?",
+    "options": ["Enero", "Julio", "Septiembre", "Noviembre"],
+    "answer": 3
+  },
+  {
+    "id": "es-gov-q26",
+    "category": "Gobierno Americano",
+    "text": "¿Cómo se llama el actual presidente de los Estados Unidos?",
+    "options": ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q27",
+    "category": "Gobierno Americano",
+    "text": "¿Cómo se llama el actual vicepresidente de los Estados Unidos?",
+    "options": ["Kamala Harris", "Mike Pence", "Joe Biden", "J D Vance"],
+    "answer": 3
+  },
+  {
+    "id": "es-gov-q28",
+    "category": "Gobierno Americano",
+    "text": "Si el presidente ya no puede cumplir sus funciones, ¿quién se convierte en presidente?",
+    "options": ["El Vicepresidente", "El Presidente de la Cámara de Representantes", "El Secretario de Estado", "El Presidente pro tempore"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q29",
+    "category": "Gobierno Americano",
+    "text": "Si tanto el presidente como el vicepresidente ya no pueden cumplir sus funciones, ¿quién se convierte en presidente?",
+    "options": ["El Secretario de Estado", "El Secretario del Tesoro", "El Presidente de la Cámara de Representantes", "El Secretario de Defensa"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q30",
+    "category": "Gobierno Americano",
+    "text": "¿Quién es el comandante en jefe de las Fuerzas Armadas?",
+    "options": ["El Presidente del Estado Mayor Conjunto", "El Secretario de Defensa", "El Presidente", "El Secretario de Estado"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q31",
+    "category": "Gobierno Americano",
+    "text": "¿Quién firma los proyectos de ley para convertirlos en ley?",
+    "options": ["El Vicepresidente", "El Presidente de la Corte Suprema", "El Presidente de la Cámara de Representantes", "El Presidente"],
+    "answer": 3
+  },
+  {
+    "id": "es-gov-q32",
+    "category": "Gobierno Americano",
+    "text": "¿Quién veta los proyectos de ley?",
+    "options": ["El Presidente", "El Líder de la Mayoría del Senado", "El Presidente de la Cámara de Representantes", "La Corte Suprema"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q33",
+    "category": "Gobierno Americano",
+    "text": "¿Qué hace el gabinete del presidente?",
+    "options": ["Crea leyes", "Asesora al Presidente", "Interpreta leyes", "Comanda el ejército"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q34",
+    "category": "Gobierno Americano",
+    "text": "¿Cuáles son dos cargos a nivel de gabinete?",
+    "options": ["Secretario de Estado y Secretario de Defensa", "Senador y Representante", "Presidente y Vicepresidente", "Presidente de la Corte Suprema y Juez Asociado"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q35",
+    "category": "Gobierno Americano",
+    "text": "¿Qué hace la rama judicial?",
+    "options": ["Crea leyes", "Revisa las leyes", "Hace cumplir las leyes", "Veta los proyectos de ley"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q36",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es el tribunal más alto de los Estados Unidos?",
+    "options": ["La Corte de Apelaciones", "La Corte Federal", "La Corte Suprema", "La Corte Estatal"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q37",
+    "category": "Gobierno Americano",
+    "text": "¿Cuántos jueces hay en la Corte Suprema?",
+    "options": ["Tres (3)", "Seis (6)", "Nueve (9)", "Doce (12)"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q38",
+    "category": "Gobierno Americano",
+    "text": "¿Quién es el presidente actual de la Corte Suprema de los Estados Unidos?",
+    "options": ["John Roberts", "Sonia Sotomayor", "Clarence Thomas", "Elena Kagan"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q39",
+    "category": "Gobierno Americano",
+    "text": "Según nuestra Constitución, algunos poderes pertenecen al gobierno federal. ¿Cuál es un poder del gobierno federal?",
+    "options": ["Proveer educación", "Proveer departamentos de policía", "Imprimir dinero", "Conceder licencias de conducir"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q40",
+    "category": "Gobierno Americano",
+    "text": "Según nuestra Constitución, algunos poderes pertenecen a los estados. ¿Cuál es un poder de los estados?",
+    "options": ["Firmar tratados", "Imprimir dinero", "Declarar la guerra", "Proveer escuelas y educación"],
+    "answer": 3
+  },
+  {
+    "id": "es-gov-q41",
+    "category": "Gobierno Americano",
+    "text": "¿Quién es el gobernador de su estado actual?",
+    "options": ["Las respuestas variarán", "Gavin Newsom", "Ron DeSantis", "Greg Abbott"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q42",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es la capital de su estado?",
+    "options": ["Las respuestas variarán", "Ciudad de Nueva York", "Los Ángeles", "Chicago"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q43",
+    "category": "Gobierno Americano",
+    "text": "¿Cuáles son los dos principales partidos políticos de los Estados Unidos?",
+    "options": ["Demócrata y Republicano", "Libertario y Verde", "Conservador y Laborista", "Socialista y Comunista"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q44",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es el partido político del presidente actual?",
+    "options": ["Partido Republicano", "Partido Demócrata", "Partido Libertario", "Independiente"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q45",
+    "category": "Gobierno Americano",
+    "text": "¿Cómo se llama el presidente actual de la Cámara de Representantes?",
+    "options": ["Nancy Pelosi", "Kevin McCarthy", "Mike Johnson", "Hakeem Jeffries"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q46",
+    "category": "Gobierno Americano",
+    "text": "Existen cuatro enmiendas a la Constitución sobre quién puede votar. Describa una de ellas.",
+    "options": ["Ciudadanos de dieciocho (18) años en adelante (pueden votar)", "Solo los hombres pueden votar", "Solo las personas con propiedades pueden votar", "Solo las personas blancas pueden votar"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q47",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es una responsabilidad que corresponde solo a los ciudadanos de los Estados Unidos?",
+    "options": ["Votar en una elección federal", "Postularse a un cargo público", "Unirse a un partido político", "Asistir a la escuela pública"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q48",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es un derecho que pueden ejercer solo los ciudadanos de los Estados Unidos?",
+    "options": ["Libertad de expresión", "Votar en una elección federal", "Libertad de religión", "Libertad de reunión"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q49",
+    "category": "Gobierno Americano",
+    "text": "¿Cuáles son dos derechos que pueden ejercer todas las personas que viven en los Estados Unidos?",
+    "options": ["Libertad de expresión y libertad de religión", "Derecho a postularse para presidente y votar en elecciones federales", "Derecho a un pasaporte de EE. UU. y postularse a un cargo", "Derecho a votar en elecciones estatales y postularse para gobernador"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q50",
+    "category": "Gobierno Americano",
+    "text": "¿A qué demostramos nuestra lealtad cuando decimos el Juramento de Lealtad (Pledge of Allegiance)?",
+    "options": ["Al Presidente", "Al Congreso", "A los Estados Unidos", "A nuestro estado de origen"],
+    "answer": 2
+  },
+  {
+    "id": "es-gov-q51",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es una promesa que usted hace cuando se convierte en ciudadano de los Estados Unidos?",
+    "options": ["Renunciar a la lealtad a otros países", "No defender la Constitución", "No obedecer las leyes", "Nunca pagar impuestos"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q52",
+    "category": "Gobierno Americano",
+    "text": "¿Cuántos años tienen que tener los ciudadanos para votar por el presidente?",
+    "options": ["Dieciséis (16)", "Dieciocho (18)", "Veintiuno (21)", "Treinta y cinco (35)"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q53",
+    "category": "Gobierno Americano",
+    "text": "¿Cuáles son dos maneras en que los estadounidenses pueden participar en su democracia?",
+    "options": ["Votar y postularse a un cargo", "Pagar impuestos e ir a la escuela", "Trabajar y poseer propiedades", "Unirse al ejército y viajar"],
+    "answer": 0
+  },
+  {
+    "id": "es-gov-q54",
+    "category": "Gobierno Americano",
+    "text": "¿Cuál es la fecha límite para enviar la declaración federal de impuestos sobre la renta?",
+    "options": ["1 de enero", "15 de abril", "4 de julio", "31 de diciembre"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q55",
+    "category": "Gobierno Americano",
+    "text": "¿Cuándo deben inscribirse todos los hombres en el Servicio Selectivo?",
+    "options": ["A los 16 años", "A los 18 años", "A los 21 años", "No tienen que registrarse"],
+    "answer": 1
+  },
+  {
+    "id": "es-gov-q56",
+    "category": "Gobierno Americano",
+    "text": "¿Quién es uno de los senadores estadounidenses de su estado ahora?",
+    "options": ["Las respuestas variarán", "Mitch McConnell", "Chuck Schumer", "Ted Cruz"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q57",
+    "category": "Historia Americana",
+    "text": "¿Cuál es una razón por la que los colonos vinieron a América?",
+    "options": ["Libertad", "Para encontrar oro", "Para unirse al ejército del Rey", "Para evitar impuestos"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q58",
+    "category": "Historia Americana",
+    "text": "¿Quiénes vivían en América antes de la llegada de los europeos?",
+    "options": ["Vikingos", "Canadienses", "Indios Americanos", "Africanos"],
+    "answer": 2
+  },
+  {
+    "id": "es-history-q59",
+    "category": "Historia Americana",
+    "text": "¿Qué grupo de personas fue traído a América y vendido como esclavos?",
+    "options": ["Personas de Europa", "Personas de Asia", "Personas de África", "Personas de Australia"],
+    "answer": 2
+  },
+  {
+    "id": "es-history-q60",
+    "category": "Historia Americana",
+    "text": "¿Por qué lucharon los colonos contra los británicos?",
+    "options": ["Debido a los impuestos altos (impuestos sin representación)", "Porque querían luchar contra los franceses", "Porque querían comenzar una nueva religión", "Porque el Rey británico quería mudarse a América"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q61",
+    "category": "Historia Americana",
+    "text": "¿Quién escribió la Declaración de Independencia?",
+    "options": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "James Madison"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q62",
+    "category": "Historia Americana",
+    "text": "¿Cuándo fue adoptada la Declaración de Independencia?",
+    "options": ["4 de julio de 1776", "17 de septiembre de 1787", "30 de abril de 1789", "20 de diciembre de 1803"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q63",
+    "category": "Historia Americana",
+    "text": "Había 13 estados originales. Nombre tres.",
+    "options": ["Nueva York, Nueva Jersey, Virginia", "California, Texas, Florida", "Ohio, Kentucky, Tennessee", "Washington, Oregón, Alaska"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q64",
+    "category": "Historia Americana",
+    "text": "¿Qué ocurrió en la Convención Constitucional?",
+    "options": ["Se escribió la Declaración de Independencia", "Se redactó la Constitución", "George Washington fue elegido Presidente", "Se firmó el Tratado de París"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q65",
+    "category": "Historia Americana",
+    "text": "¿Cuándo fue redactada la Constitución?",
+    "options": ["1776", "1787", "1789", "1791"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q66",
+    "category": "Historia Americana",
+    "text": "Los Documentos Federalistas respaldaron la aprobación de la Constitución de los EE. UU. Nombre uno de los autores.",
+    "options": ["James Madison", "Thomas Jefferson", "George Washington", "Patrick Henry"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q67",
+    "category": "Historia Americana",
+    "text": "Mencione una razón por la que es famoso Benjamin Franklin.",
+    "options": ["Diplomático estadounidense", "Segundo Presidente de los Estados Unidos", "General en la Guerra Revolucionaria", "Autor principal de la Constitución"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q68",
+    "category": "Historia Americana",
+    "text": "¿Quién se conoce como el “Padre de Nuestra Nación”?",
+    "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+    "answer": 2
+  },
+  {
+    "id": "es-history-q69",
+    "category": "Historia Americana",
+    "text": "¿Quién fue el primer presidente?",
+    "options": ["John Adams", "Thomas Jefferson", "James Madison", "George Washington"],
+    "answer": 3
+  },
+  {
+    "id": "es-history-q70",
+    "category": "Historia Americana",
+    "text": "¿Qué territorio compró Estados Unidos a Francia en 1803?",
+    "options": ["El territorio de Luisiana", "Alaska", "Florida", "Hawái"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q71",
+    "category": "Historia Americana",
+    "text": "Nombre una guerra en la que peleó Estados Unidos durante los años 1800.",
+    "options": ["Primera Guerra Mundial", "Guerra Civil", "Guerra de Vietnam", "Guerra de Corea"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q72",
+    "category": "Historia Americana",
+    "text": "Dé el nombre de la guerra de Estados Unidos entre el Norte y el Sur.",
+    "options": ["La Guerra Revolucionaria", "La Guerra Civil", "La Guerra de 1812", "La Guerra Mexicano-Estadounidense"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q73",
+    "category": "Historia Americana",
+    "text": "Nombre un problema que condujo a la Guerra Civil.",
+    "options": ["Esclavitud", "Petróleo", "Religión", "Expansión hacia el oeste"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q74",
+    "category": "Historia Americana",
+    "text": "¿Cuál fue una cosa importante que hizo Abraham Lincoln?",
+    "options": ["Dirigió la Guerra Revolucionaria", "Liberó a los esclavos (Proclamación de Emancipación)", "Compró el territorio de Luisiana", "Escribió la Declaración de Independencia"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q75",
+    "category": "Historia Americana",
+    "text": "¿Qué hizo la Proclamación de Emancipación?",
+    "options": ["Dio a las mujeres el derecho al voto", "Liberó a los esclavos en la Confederación", "Puso fin a la Guerra Revolucionaria", "Declaró la independencia de Gran Bretaña"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q76",
+    "category": "Historia Americana",
+    "text": "¿Qué hizo Susan B. Anthony?",
+    "options": ["Luchó por los derechos de la mujer", "Se convirtió en la primera mujer senadora", "Sirvió como enfermera en la Guerra Civil", "Cosió la primera bandera estadounidense"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q77",
+    "category": "Historia Americana",
+    "text": "Nombre una guerra en la que peleó Estados Unidos durante los años 1900.",
+    "options": ["Guerra Civil", "Guerra Revolucionaria", "Primera Guerra Mundial", "Guerra de 1812"],
+    "answer": 2
+  },
+  {
+    "id": "es-history-q78",
+    "category": "Historia Americana",
+    "text": "¿Quién era el presidente durante la Primera Guerra Mundial?",
+    "options": ["Woodrow Wilson", "Franklin Roosevelt", "Herbert Hoover", "Harry Truman"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q79",
+    "category": "Historia Americana",
+    "text": "¿Quién era el presidente durante la Gran Depresión y la Segunda Guerra Mundial?",
+    "options": ["Herbert Hoover", "Franklin Roosevelt", "Harry Truman", "Dwight Eisenhower"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q80",
+    "category": "Historia Americana",
+    "text": "¿Contra qué países peleó Estados Unidos en la Segunda Guerra Mundial?",
+    "options": ["Japón, Alemania e Italia", "La Unión Soviética, China y Gran Bretaña", "Canadá, Australia y Francia", "Vietnam, Corea del Norte y Cuba"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q81",
+    "category": "Historia Americana",
+    "text": "Antes de ser presidente, Eisenhower era general. ¿En qué guerra participó?",
+    "options": ["Guerra Civil", "Primera Guerra Mundial", "Segunda Guerra Mundial", "Guerra de Vietnam"],
+    "answer": 2
+  },
+  {
+    "id": "es-history-q82",
+    "category": "Historia Americana",
+    "text": "Durante la Guerra Fría, ¿cuál era la principal preocupación de los Estados Unidos?",
+    "options": ["El comunismo", "El cambio climático", "La esclavitud", "La Gran Depresión"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q83",
+    "category": "Historia Americana",
+    "text": "¿Qué movimiento trató de poner fin a la discriminación racial?",
+    "options": ["La Prohibición", "El sufragio femenino", "El (movimiento de) derechos civiles", "El movimiento ambientalista"],
+    "answer": 2
+  },
+  {
+    "id": "es-history-q84",
+    "category": "Historia Americana",
+    "text": "¿Qué hizo Martin Luther King, Jr.?",
+    "options": ["Luchó por los derechos civiles", "Luchó en la Segunda Guerra Mundial", "Se convirtió en juez de la Corte Suprema", "Fue el primer senador negro"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q85",
+    "category": "Historia Americana",
+    "text": "¿Qué suceso de gran importancia histórica ocurrió el 11 de septiembre de 2001 en los Estados Unidos?",
+    "options": ["El ataque a Pearl Harbor", "El inicio de la Gran Depresión", "Terroristas atacaron los Estados Unidos", "Se declaró el fin de la Guerra Fría"],
+    "answer": 2
+  },
+  {
+    "id": "es-history-q86",
+    "category": "Historia Americana",
+    "text": "Nombre una tribu de indios americanos en los Estados Unidos.",
+    "options": ["Cherokee", "Celtas", "Eslavos", "Han"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q87",
+    "category": "Historia Americana",
+    "text": "¿Cuál era el propósito de los Documentos Federalistas?",
+    "options": ["Oponerse a la Constitución de EE. UU.", "Apoyar la Constitución de EE. UU.", "Declarar la independencia de Gran Bretaña", "Pedir gobiernos estatales más fuertes"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q88",
+    "category": "Historia Americana",
+    "text": "¿Por qué es famoso Thomas Jefferson?",
+    "options": ["Autor de la Declaración de Independencia", "Fue el primer Presidente", "Fue general en la Guerra Civil", "Fue el primer Secretario del Tesoro"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q89",
+    "category": "Historia Americana",
+    "text": "¿Por qué es famoso James Madison?",
+    "options": ["“Padre de la Constitución”", "Primer Presidente", "Escribió la Proclamación de Emancipación", "Dirigió la Guerra Revolucionaria"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q90",
+    "category": "Historia Americana",
+    "text": "¿Por qué es famoso Alexander Hamilton?",
+    "options": ["Primer Secretario del Tesoro", "Primer Presidente", "Escribió la Declaración de Independencia", "Fue general en la Guerra Civil"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q91",
+    "category": "Historia Americana",
+    "text": "¿Cuándo fue la Guerra Civil?",
+    "options": ["Los años 1700", "Los años 1800", "Los años 1900", "Los años 2000"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q92",
+    "category": "Historia Americana",
+    "text": "Nombra uno de los dos bandos de la Guerra Civil.",
+    "options": ["El Norte (la Unión)", "Los Británicos", "Los Franceses", "Los Alemanes"],
+    "answer": 0
+  },
+  {
+    "id": "es-history-q93",
+    "category": "Historia Americana",
+    "text": "¿Dónde pronunció Abraham Lincoln el Discurso de Gettysburg?",
+    "options": ["Washington, D.C.", "Gettysburg, Pensilvania", "Richmond, Virginia", "Filadelfia, Pensilvania"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q94",
+    "category": "Historia Americana",
+    "text": "¿Cuándo fue la Primera Guerra Mundial?",
+    "options": ["Los años 1800", "Los años 1900", "Los años 2000", "Los años 1700"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q95",
+    "category": "Historia Americana",
+    "text": "¿Cuándo fue la Segunda Guerra Mundial?",
+    "options": ["Los años 1800", "Los años 1900", "Los años 2000", "Los años 1700"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q96",
+    "category": "Historia Americana",
+    "text": "¿Por qué es famoso Dwight D. Eisenhower?",
+    "options": ["Presidente durante la Primera Guerra Mundial", "General durante la Segunda Guerra Mundial", "Líder de derechos civiles", "Primer hombre en la luna"],
+    "answer": 1
+  },
+  {
+    "id": "es-history-q97",
+    "category": "Historia Americana",
+    "text": "¿Por qué luchó Martin Luther King, Jr.?",
+    "options": ["Igualdad y derechos civiles", "Sufragio femenino", "El fin de la Primera Guerra Mundial", "Independencia de Estados Unidos"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q98",
+    "category": "Educación Cívica Integrada",
+    "text": "Nombre uno de los dos ríos más largos en los Estados Unidos.",
+    "options": ["Río Mississippi", "Río Colorado", "Río Ohio", "Río Hudson"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q99",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué océano está en la costa oeste de los Estados Unidos?",
+    "options": ["Océano Atlántico", "Océano Pacífico", "Océano Índico", "Océano Ártico"],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q100",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué océano está en la costa este de los Estados Unidos?",
+    "options": ["Océano Pacífico", "Océano Índico", "Océano Ártico", "Océano Atlántico"],
+    "answer": 3
+  },
+  {
+    "id": "es-civics-q101",
+    "category": "Educación Cívica Integrada",
+    "text": "Dé el nombre de un territorio de los EE. UU.",
+    "options": ["Puerto Rico", "Cuba", "Haití", "Las Bahamas"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q102",
+    "category": "Educación Cívica Integrada",
+    "text": "Nombre un estado que tiene frontera con Canadá.",
+    "options": ["Nueva York", "Texas", "Florida", "California"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q103",
+    "category": "Educación Cívica Integrada",
+    "text": "Nombre un estado que tiene frontera con México.",
+    "options": ["California", "Washington", "Maine", "Alaska"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q104",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cuál es la capital de los Estados Unidos?",
+    "options": ["Ciudad de Nueva York", "Filadelfia", "Boston", "Washington, D.C."],
+    "answer": 3
+  },
+  {
+    "id": "es-civics-q105",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Dónde está la Estatua de la Libertad?",
+    "options": ["Puerto de Boston", "(Puerto de) Nueva York", "Bahía de San Francisco", "Washington, D.C."],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q106",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Por qué hay 13 franjas en la bandera?",
+    "options": ["Porque representaban las 13 colonias originales", "Porque hay 13 enmiendas en la Carta de Derechos", "Porque había 13 Padres Fundadores", "Porque hubo 13 batallas importantes"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q107",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Por qué hay 50 estrellas en la bandera?",
+    "options": ["Porque ha habido 50 presidentes", "Porque hay una estrella por cada estado", "Porque había 50 Padres Fundadores", "Porque tiene 50 años"],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q108",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cómo se llama el himno nacional?",
+    "options": ["The Star-Spangled Banner", "America the Beautiful", "God Bless America", "My Country, 'Tis of Thee"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q109",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cuándo celebramos el Día de la Independencia?",
+    "options": ["1 de enero", "4 de julio", "El último jueves de noviembre", "25 de diciembre"],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q110",
+    "category": "Educación Cívica Integrada",
+    "text": "Nombre dos días feriados nacionales de los Estados Unidos.",
+    "options": ["Día de Año Nuevo y Día de Acción de Gracias", "Día de San Valentín y Halloween", "Día de las Bromas de Abril y Día de San Patricio", "Domingo del Super Bowl y Viernes Negro"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q111",
+    "category": "Educación Cívica Integrada",
+    "text": "La palabra “ciudadano” se encuentra tres veces en la Constitución. Nombre una.",
+    "options": ["Ciudadano por nacimiento", "Ciudadano por naturalización", "Ciudadano de un estado", "Todas las anteriores"],
+    "answer": 3
+  },
+  {
+    "id": "es-civics-q112",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué derechos tienen los ciudadanos estadounidenses?",
+    "options": ["Votar en elecciones federales y postularse a cargos federales", "Libertad de expresión y religión", "Todas las anteriores", "Ninguna de las anteriores"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q113",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es la “búsqueda de la felicidad” en la Declaración de Independencia?",
+    "options": ["El derecho a ser feliz", "El derecho a perseguir metas personales", "Todas las anteriores", "Ninguna de las anteriores"],
+    "answer": 2
+  },
+  {
+    "id": "es-civics-q114",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es la libertad económica?",
+    "options": ["La libertad de elegir la propia ocupación", "La libertad de iniciar un negocio", "La libertad de poseer propiedades", "Todas las anteriores"],
+    "answer": 3
+  },
+  {
+    "id": "es-civics-q115",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es el “estado de derecho”?",
+    "options": ["Todos deben obedecer la ley", "Los líderes están por encima de la ley", "El gobierno no tiene que obedecer la ley", "Ninguna de las anteriores"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q116",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cuáles son las tres ramas del gobierno?",
+    "options": ["Legislativa, ejecutiva y judicial", "Federal, estatal y local", "Presidente, Congreso y Corte Suprema", "Ninguna de las anteriores"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q117",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Por qué el Congreso de los EE. UU. tiene dos cámaras?",
+    "options": ["Representación (Pesos y contrapesos)", "Eficiencia", "Tradición", "Ninguna de las anteriores"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q118",
+    "category": "Educación Cívica Integrada",
+    "text": "¿A quién representa un senador de los EE. UU.?",
+    "options": ["A todas las personas del estado", "Solo a las personas de su partido", "Solo a la legislatura estatal", "Al Presidente"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q119",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Quién elige al Presidente de los Estados Unidos?",
+    "options": ["El Colegio Electoral", "El pueblo directamente", "El Congreso", "La Corte Suprema"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q120",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es el Colegio Electoral?",
+    "options": ["Un organismo que elige al Presidente", "Un grupo de profesores universitarios", "Un comité en el Congreso", "Ninguna de las anteriores"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q121",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es la “revisión judicial”?",
+    "options": ["El poder de la Corte Suprema para revisar la constitucionalidad de las leyes", "El poder del Congreso para revisar a los jueces", "El poder del Presidente para revisar las decisiones judiciales", "Ninguna de las anteriores"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q122",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es el federalismo?",
+    "options": ["División de poder entre el gobierno federal y los gobiernos estatales", "Un único gobierno central", "Los estados tienen todo el poder", "Ninguna de las anteriores"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q123",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué poder proporciona la 10ª Enmienda?",
+    "options": ["Los poderes no otorgados al gobierno federal pertenecen a los estados o al pueblo", "Libertad de expresión", "Derecho a portar armas", "Derecho al voto"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q124",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Quién es el Comandante en Jefe de las Fuerzas Armadas de EE. UU.?",
+    "options": ["El Presidente", "El Secretario de Defensa", "El Presidente del Estado Mayor Conjunto", "El Presidente de la Cámara de Representantes"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q125",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cómo se aprueba una enmienda a la Constitución?",
+    "options": ["Ratificación por el Congreso y los estados", "Una orden del Presidente", "Un fallo de la Corte Suprema", "Una votación nacional"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q126",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es un “ciudadano”?",
+    "options": ["Un miembro legal de un país", "Una persona que vive en un país", "Una persona que trabaja en un país", "Ninguna de las anteriores"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q127",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cuál es el lema de los Estados Unidos?",
+    "options": ["E Pluribus Unum (De muchos, uno)", "In God We Trust (En Dios confiamos)", "Vida, libertad y la búsqueda de la felicidad", "The Star-Spangled Banner (El himno nacional)"],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q128",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es el Día de la Recordación (Memorial Day)?",
+    "options": ["Un día festivo para honrar a todos los presidentes de EE. UU.", "Un día festivo para celebrar el fin del verano", "Un día festivo para honrar a los soldados que murieron en el servicio militar", "Un día festivo para celebrar el primer día del año"],
+    "answer": 2
+  }
+]

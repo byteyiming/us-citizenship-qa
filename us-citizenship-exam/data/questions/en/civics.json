@@ -1,0 +1,354 @@
+[
+  {
+    "id": "en-civics-q97",
+    "category": "Integrated Civics",
+    "text": "Name one of the two longest rivers in the United States.",
+    "options": [
+      "Mississippi River",
+      "Colorado River",
+      "Ohio River",
+      "Hudson River"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q98",
+    "category": "Integrated Civics",
+    "text": "What ocean is on the West Coast of the United States?",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "en-civics-q99",
+    "category": "Integrated Civics",
+    "text": "What ocean is on the East Coast of the United States?",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "en-civics-q100",
+    "category": "Integrated Civics",
+    "text": "Name one U.S. territory.",
+    "options": ["Puerto Rico", "Cuba", "Haiti", "The Bahamas"],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q101",
+    "category": "Integrated Civics",
+    "text": "Name one state that borders Canada.",
+    "options": ["New York", "Texas", "Florida", "California"],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q102",
+    "category": "Integrated Civics",
+    "text": "Name one state that borders Mexico.",
+    "options": ["California", "Washington", "Maine", "Alaska"],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q103",
+    "category": "Integrated Civics",
+    "text": "What is the capital of the United States?",
+    "options": ["New York City", "Philadelphia", "Boston", "Washington, D.C."],
+    "answer": 3
+  },
+  {
+    "id": "en-civics-q104",
+    "category": "Integrated Civics",
+    "text": "Where is the Statue of Liberty?",
+    "options": [
+      "Boston Harbor",
+      "New York (Harbor)",
+      "San Francisco Bay",
+      "Washington, D.C."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "en-civics-q105",
+    "category": "Integrated Civics",
+    "text": "Why does the flag have 13 stripes?",
+    "options": [
+      "Because there were 13 original colonies",
+      "Because there are 13 amendments in the Bill of Rights",
+      "Because there were 13 Founding Fathers",
+      "Because there were 13 major battles"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q106",
+    "category": "Integrated Civics",
+    "text": "Why does the flag have 50 stars?",
+    "options": [
+      "Because there have been 50 Presidents",
+      "Because there is one star for each state",
+      "Because there were 50 Founding Fathers",
+      "Because it is 50 years old"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "en-civics-q107",
+    "category": "Integrated Civics",
+    "text": "What is the name of the national anthem?",
+    "options": [
+      "The Star-Spangled Banner",
+      "America the Beautiful",
+      "God Bless America",
+      "My Country, 'Tis of Thee"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q108",
+    "category": "Integrated Civics",
+    "text": "When do we celebrate Independence Day?",
+    "options": [
+      "January 1",
+      "July 4",
+      "The last Thursday in November",
+      "December 25"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "en-civics-q109",
+    "category": "Integrated Civics",
+    "text": "Name two national U.S. holidays.",
+    "options": [
+      "New Year's Day and Thanksgiving",
+      "Valentine's Day and Halloween",
+      "April Fool's Day and St. Patrick's Day",
+      "Super Bowl Sunday and Black Friday"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q110",
+    "category": "Integrated Civics",
+    "text": "The word “citizen” is in the Constitution three times. Name one.",
+    "options": [
+      "Citizen by birth",
+      "Citizen by naturalization",
+      "Citizen of a state",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "en-civics-q111",
+    "category": "Integrated Civics",
+    "text": "What rights do U.S. citizens have?",
+    "options": [
+      "To vote in federal elections and run for federal office",
+      "Freedom of speech and religion",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q112",
+    "category": "Integrated Civics",
+    "text": "What is the “pursuit of happiness” in the Declaration of Independence?",
+    "options": [
+      "The right to be happy",
+      "The right to pursue personal goals",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "en-civics-q113",
+    "category": "Integrated Civics",
+    "text": "What is economic freedom?",
+    "options": [
+      "The freedom to choose one's own occupation",
+      "The freedom to start a business",
+      "The freedom to own property",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "en-civics-q114",
+    "category": "Integrated Civics",
+    "text": "What is the “rule of law”?",
+    "options": [
+      "Everyone must follow the law",
+      "Leaders are above the law",
+      "The government does not have to follow the law",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q115",
+    "category": "Integrated Civics",
+    "text": "What are the three branches of government?",
+    "options": [
+      "Legislative, executive, and judicial",
+      "Federal, state, and local",
+      "President, Congress, and Supreme Court",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q116",
+    "category": "Integrated Civics",
+    "text": "Why does the U.S. Congress have two houses?",
+    "options": [
+      "Representation (Checks and Balances)",
+      "Efficiency",
+      "Tradition",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q117",
+    "category": "Integrated Civics",
+    "text": "Who does a U.S. Senator represent?",
+    "options": [
+      "All people of the state",
+      "Only the people in their party",
+      "Only the state legislature",
+      "The President"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q118",
+    "category": "Integrated Civics",
+    "text": "Who elects the President of the United States?",
+    "options": [
+      "The Electoral College",
+      "The people directly",
+      "Congress",
+      "The Supreme Court"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q119",
+    "category": "Integrated Civics",
+    "text": "What is the Electoral College?",
+    "options": [
+      "A body that elects the President",
+      "A group of university professors",
+      "A committee in Congress",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q120",
+    "category": "Integrated Civics",
+    "text": "What is “judicial review”?",
+    "options": [
+      "The power of the Supreme Court to review laws for constitutionality",
+      "The power of Congress to review judges",
+      "The power of the President to review court decisions",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q121",
+    "category": "Integrated Civics",
+    "text": "What is federalism?",
+    "options": [
+      "Division of power between the federal and state governments",
+      "A single central government",
+      "States having all the power",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q122",
+    "category": "Integrated Civics",
+    "text": "What power does the 10th Amendment provide?",
+    "options": [
+      "Powers not given to the federal government belong to the states or the people",
+      "Freedom of speech",
+      "Right to bear arms",
+      "Right to vote"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q123",
+    "category": "Integrated Civics",
+    "text": "Who is the Commander in Chief of the U.S. military?",
+    "options": [
+      "The President",
+      "The Secretary of Defense",
+      "The Chairman of the Joint Chiefs of Staff",
+      "The Speaker of the House"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q124",
+    "category": "Integrated Civics",
+    "text": "How is an amendment to the Constitution passed?",
+    "options": [
+      "Ratification by Congress and the states",
+      "An order from the President",
+      "A ruling by the Supreme Court",
+      "A national vote"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q125",
+    "category": "Integrated Civics",
+    "text": "What is a “citizen”?",
+    "options": [
+      "A legal member of a country",
+      "A person living in a country",
+      "A person working in a country",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "en-civics-q126",
+    "category": "Integrated Civics",
+    "text": "What is the U.S. motto?",
+    "options": [
+      "E Pluribus Unum",
+      "In God We Trust",
+      "Life, Liberty, and the pursuit of Happiness",
+      "The Star-Spangled Banner"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "en-civics-q127",
+    "category": "Integrated Civics",
+    "text": "What is Memorial Day?",
+    "options": [
+      "A holiday to honor all U.S. presidents",
+      "A holiday to celebrate the end of summer",
+      "A holiday to honor soldiers who died in military service",
+      "A holiday to celebrate the first day of the year"
+    ],
+    "answer": 2
+  }
+]

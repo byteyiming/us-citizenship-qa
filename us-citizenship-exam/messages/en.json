@@ -1,0 +1,80 @@
+{
+  "home": {
+    "title": "Naturalization Practice Hub",
+    "subtitle": "Practice for the U.S. civics test with multiple languages.",
+    "question": "Do you want to practice? Which method works best for you?",
+    "quizTitle": "Quiz Mode",
+    "quizDescription": "Test your knowledge with multiple-choice questions and see your score.",
+    "flashcardsTitle": "Flashcards",
+    "flashcardsDescription": "Review questions one at a time with interactive flashcards.",
+    "suggestion": "Try both and see which helps you learn better!"
+  },
+  "navbar": {
+    "title": "U.S. Civics Study Hub",
+    "home": "Home",
+    "quiz": "Quiz",
+    "flashcards": "Flashcards",
+    "resources": "Resources"
+  },
+  "footer": { "text": "Made with ☕ over many days. By byteMing.", "feedback": "Feedback" },
+  "quiz": {
+    "title": "Quiz Mode",
+    "selectMode": "Choose mode:",
+    "practiceMode": "Practice Mode",
+    "testMode": "Official Test (USCIS Format)",
+    "practiceDesc": "Practice with instant feedback and 10 sample questions",
+    "testDesc": "Simulate the real test: up to 20 questions, need 12+ to pass",
+    "selectCategory": "Select a category:",
+    "categoryGov": "Government",
+    "categoryHistory": "History",
+    "categoryCivics": "Integrated Civics",
+    "allQuestions": "All Questions",
+    "pass": "PASSED",
+    "fail": "FAILED",
+    "needToPass": "Need {min}+ to pass",
+    "passMessage": "Congratulations! You passed with {correct} out of {total} correct. (Need 12+ to pass)",
+    "failMessage": "You scored {correct} out of {total}. You need at least 12 correct answers to pass.",
+    "questionCount": "Question {current} of {total}",
+    "percent": "{percent}%",
+    "previous": "Previous",
+    "next": "Next",
+    "viewResults": "View Results",
+    "complete": "Quiz Complete!",
+    "score": "You got {correct} out of {total} correct!",
+    "tryAgain": "Try Again",
+    "backHome": "Back to Home",
+    "noQuestions": "No questions available."
+  },
+  "flashcards": {
+    "title": "Flashcards",
+    "selectCategory": "Select a category:",
+    "categoryGov": "Government",
+    "categoryHistory": "History",
+    "categoryCivics": "Integrated Civics",
+    "cardCount": "Card {current} of {total}",
+    "question": "Question",
+    "answer": "Answer",
+    "clickToFlip": "Click to flip",
+    "clickToFlipBack": "Click to flip back",
+    "previous": "Previous",
+    "next": "Next",
+    "tip": "Tip: Press Space to flip, ←/→ to navigate",
+    "all": "All",
+    "noCards": "No flashcards available."
+  },
+  "resources": {
+    "title": "Listening & Study Resources",
+    "youtube": "YouTube Playlists",
+    "official": "Official USCIS Resources",
+    "community": "Other Helpful Links"
+  },
+  "feedback": {
+    "title": "Send us feedback",
+    "subtitle": "Tell us what to improve, or suggest resources.",
+    "email": "Your email (optional)",
+    "message": "Your feedback...",
+    "submit": "Submit"
+  }
+}
+
+

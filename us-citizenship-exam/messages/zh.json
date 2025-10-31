@@ -1,0 +1,80 @@
+{
+  "home": {
+    "title": "入籍考试练习中心",
+    "subtitle": "使用多种语言练习美国公民考试公民知识题。",
+    "question": "想要练习吗？哪种方法最适合您？",
+    "quizTitle": "测验模式",
+    "quizDescription": "通过选择题测试您的知识并查看您的分数。",
+    "flashcardsTitle": "复习卡片",
+    "flashcardsDescription": "使用交互式闪卡逐一复习问题。",
+    "suggestion": "两种都试试，看看哪个更能帮助您学习！"
+  },
+  "navbar": {
+    "title": "美国公民学习中心",
+    "home": "首页",
+    "quiz": "测验",
+    "flashcards": "复习卡片",
+    "resources": "学习资源"
+  },
+  "footer": { "text": "由 byteMing 耗费大量咖啡和时间制作。", "feedback": "意见反馈" },
+  "quiz": {
+    "title": "测验模式",
+    "selectMode": "选择模式：",
+    "practiceMode": "练习模式",
+    "testMode": "正式考试（USCIS格式）",
+    "practiceDesc": "练习模式：即时反馈，10道样题",
+    "testDesc": "模拟真实考试：最多20题，需答对12题以上才能通过",
+    "selectCategory": "选择类别：",
+    "categoryGov": "美国政府",
+    "categoryHistory": "美国历史",
+    "categoryCivics": "综合公民",
+    "allQuestions": "全部题目",
+    "pass": "通过",
+    "fail": "未通过",
+    "needToPass": "需答对 {min}+ 题才通过",
+    "passMessage": "恭喜！您通过了测验，答对 {correct} / {total} 题。（需答对12题以上）",
+    "failMessage": "您答对了 {correct} / {total} 题。需要通过测验，您至少需要答对12题。",
+    "questionCount": "第 {current} 题 / 共 {total} 题",
+    "percent": "{percent}%",
+    "previous": "上一题",
+    "next": "下一题",
+    "viewResults": "查看结果",
+    "complete": "测验完成！",
+    "score": "您答对了 {correct} / {total} 题！",
+    "tryAgain": "再试一次",
+    "backHome": "返回首页",
+    "noQuestions": "暂无题目。"
+  },
+  "flashcards": {
+    "title": "复习卡片",
+    "selectCategory": "请选择一个分类:",
+    "categoryGov": "美国政府",
+    "categoryHistory": "美国历史",
+    "categoryCivics": "综合公民",
+    "cardCount": "第 {current} 张 / 共 {total} 张",
+    "question": "问题",
+    "answer": "答案",
+    "clickToFlip": "点击翻转",
+    "clickToFlipBack": "再次点击翻回",
+    "previous": "上一张",
+    "next": "下一张",
+    "tip": "提示：空格翻转，←/→ 导航",
+    "all": "全部",
+    "noCards": "暂无闪卡。"
+  },
+  "resources": {
+    "title": "听力与学习资源",
+    "youtube": "YouTube 播放列表",
+    "official": "USCIS 官方资源",
+    "community": "其他有用链接"
+  },
+  "feedback": {
+    "title": "提交意见反馈",
+    "subtitle": "欢迎提出改进建议或推荐学习资源。",
+    "email": "您的邮箱（可选）",
+    "message": "您的反馈...",
+    "submit": "提交"
+  }
+}
+
+

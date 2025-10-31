@@ -1,0 +1,354 @@
+[
+  {
+    "id": "es-civics-q98",
+    "category": "Educación Cívica Integrada",
+    "text": "Nombre uno de los dos ríos más largos en los Estados Unidos.",
+    "options": ["Río Mississippi", "Río Colorado", "Río Ohio", "Río Hudson"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q99",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué océano está en la costa oeste de los Estados Unidos?",
+    "options": [
+      "Océano Atlántico",
+      "Océano Pacífico",
+      "Océano Índico",
+      "Océano Ártico"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q100",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué océano está en la costa este de los Estados Unidos?",
+    "options": [
+      "Océano Pacífico",
+      "Océano Índico",
+      "Océano Ártico",
+      "Océano Atlántico"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "es-civics-q101",
+    "category": "Educación Cívica Integrada",
+    "text": "Dé el nombre de un territorio de los EE. UU.",
+    "options": ["Puerto Rico", "Cuba", "Haití", "Las Bahamas"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q102",
+    "category": "Educación Cívica Integrada",
+    "text": "Nombre un estado que tiene frontera con Canadá.",
+    "options": ["Nueva York", "Texas", "Florida", "California"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q103",
+    "category": "Educación Cívica Integrada",
+    "text": "Nombre un estado que tiene frontera con México.",
+    "options": ["California", "Washington", "Maine", "Alaska"],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q104",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cuál es la capital de los Estados Unidos?",
+    "options": [
+      "Ciudad de Nueva York",
+      "Filadelfia",
+      "Boston",
+      "Washington, D.C."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "es-civics-q105",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Dónde está la Estatua de la Libertad?",
+    "options": [
+      "Puerto de Boston",
+      "(Puerto de) Nueva York",
+      "Bahía de San Francisco",
+      "Washington, D.C."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q106",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Por qué hay 13 franjas en la bandera?",
+    "options": [
+      "Porque representaban las 13 colonias originales",
+      "Porque hay 13 enmiendas en la Carta de Derechos",
+      "Porque había 13 Padres Fundadores",
+      "Porque hubo 13 batallas importantes"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q107",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Por qué hay 50 estrellas en la bandera?",
+    "options": [
+      "Porque ha habido 50 presidentes",
+      "Porque hay una estrella por cada estado",
+      "Porque había 50 Padres Fundadores",
+      "Porque tiene 50 años"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q108",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cómo se llama el himno nacional?",
+    "options": [
+      "The Star-Spangled Banner",
+      "America the Beautiful",
+      "God Bless America",
+      "My Country, 'Tis of Thee"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q109",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cuándo celebramos el Día de la Independencia?",
+    "options": [
+      "1 de enero",
+      "4 de julio",
+      "El último jueves de noviembre",
+      "25 de diciembre"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q110",
+    "category": "Educación Cívica Integrada",
+    "text": "Nombre dos días feriados nacionales de los Estados Unidos.",
+    "options": [
+      "Día de Año Nuevo y Día de Acción de Gracias",
+      "Día de San Valentín y Halloween",
+      "Día de las Bromas de Abril y Día de San Patricio",
+      "Domingo del Super Bowl y Viernes Negro"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q111",
+    "category": "Educación Cívica Integrada",
+    "text": "La palabra “ciudadano” se encuentra tres veces en la Constitución. Nombre una.",
+    "options": [
+      "Ciudadano por nacimiento",
+      "Ciudadano por naturalización",
+      "Ciudadano de un estado",
+      "Todas las anteriores"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "es-civics-q112",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué derechos tienen los ciudadanos estadounidenses?",
+    "options": [
+      "Votar en elecciones federales y postularse a cargos federales",
+      "Libertad de expresión y religión",
+      "Todas las anteriores",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q113",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es la “búsqueda de la felicidad” en la Declaración de Independencia?",
+    "options": [
+      "El derecho a ser feliz",
+      "El derecho a perseguir metas personales",
+      "Todas las anteriores",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "es-civics-q114",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es la libertad económica?",
+    "options": [
+      "La libertad de elegir la propia ocupación",
+      "La libertad de iniciar un negocio",
+      "La libertad de poseer propiedades",
+      "Todas las anteriores"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "es-civics-q115",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es el “estado de derecho”?",
+    "options": [
+      "Todos deben obedecer la ley",
+      "Los líderes están por encima de la ley",
+      "El gobierno no tiene que obedecer la ley",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q116",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cuáles son las tres ramas del gobierno?",
+    "options": [
+      "Legislativa, ejecutiva y judicial",
+      "Federal, estatal y local",
+      "Presidente, Congreso y Corte Suprema",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q117",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Por qué el Congreso de los EE. UU. tiene dos cámaras?",
+    "options": [
+      "Representación (Pesos y contrapesos)",
+      "Eficiencia",
+      "Tradición",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q118",
+    "category": "Educación Cívica Integrada",
+    "text": "¿A quién representa un senador de los EE. UU.?",
+    "options": [
+      "A todas las personas del estado",
+      "Solo a las personas de su partido",
+      "Solo a la legislatura estatal",
+      "Al Presidente"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q119",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Quién elige al Presidente de los Estados Unidos?",
+    "options": [
+      "El Colegio Electoral",
+      "El pueblo directamente",
+      "El Congreso",
+      "La Corte Suprema"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q120",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es el Colegio Electoral?",
+    "options": [
+      "Un organismo que elige al Presidente",
+      "Un grupo de profesores universitarios",
+      "Un comité en el Congreso",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q121",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es la “revisión judicial”?",
+    "options": [
+      "El poder de la Corte Suprema para revisar la constitucionalidad de las leyes",
+      "El poder del Congreso para revisar a los jueces",
+      "El poder del Presidente para revisar las decisiones judiciales",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q122",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es el federalismo?",
+    "options": [
+      "División de poder entre el gobierno federal y los gobiernos estatales",
+      "Un único gobierno central",
+      "Los estados tienen todo el poder",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q123",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué poder proporciona la 10ª Enmienda?",
+    "options": [
+      "Los poderes no otorgados al gobierno federal pertenecen a los estados o al pueblo",
+      "Libertad de expresión",
+      "Derecho a portar armas",
+      "Derecho al voto"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q124",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Quién es el Comandante en Jefe de las Fuerzas Armadas de EE. UU.?",
+    "options": [
+      "El Presidente",
+      "El Secretario de Defensa",
+      "El Presidente del Estado Mayor Conjunto",
+      "El Presidente de la Cámara de Representantes"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q125",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cómo se aprueba una enmienda a la Constitución?",
+    "options": [
+      "Ratificación por el Congreso y los estados",
+      "Una orden del Presidente",
+      "Un fallo de la Corte Suprema",
+      "Una votación nacional"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q126",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es un “ciudadano”?",
+    "options": [
+      "Un miembro legal de un país",
+      "Una persona que vive en un país",
+      "Una persona que trabaja en un país",
+      "Ninguna de las anteriores"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-civics-q127",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Cuál es el lema de los Estados Unidos?",
+    "options": [
+      "E Pluribus Unum (De muchos, uno)",
+      "In God We Trust (En Dios confiamos)",
+      "Vida, libertad y la búsqueda de la felicidad",
+      "The Star-Spangled Banner (El himno nacional)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-civics-q128",
+    "category": "Educación Cívica Integrada",
+    "text": "¿Qué es el Día de la Recordación (Memorial Day)?",
+    "options": [
+      "Un día festivo para honrar a todos los presidentes de EE. UU.",
+      "Un día festivo para celebrar el fin del verano",
+      "Un día festivo para honrar a los soldados que murieron en el servicio militar",
+      "Un día festivo para celebrar el primer día del año"
+    ],
+    "answer": 2
+  }
+]

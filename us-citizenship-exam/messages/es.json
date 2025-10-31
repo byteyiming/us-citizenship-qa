@@ -1,0 +1,80 @@
+{
+  "home": {
+    "title": "Centro de Práctica de Naturalización",
+    "subtitle": "Practica para el examen cívico de EE. UU. en varios idiomas.",
+    "question": "¿Quieres practicar? ¿Qué método funciona mejor para ti?",
+    "quizTitle": "Modo Quiz",
+    "quizDescription": "Prueba tus conocimientos con preguntas de opción múltiple y ve tu puntuación.",
+    "flashcardsTitle": "Tarjetas",
+    "flashcardsDescription": "Revisa preguntas una por una con tarjetas interactivas.",
+    "suggestion": "¡Prueba ambos y descubre cuál te ayuda a aprender mejor!"
+  },
+  "navbar": {
+    "title": "Centro de Estudio Cívico de EE. UU.",
+    "home": "Inicio",
+    "quiz": "Examen",
+    "flashcards": "Tarjetas",
+    "resources": "Recursos"
+  },
+  "footer": { "text": "Hecho con ☕ durante muchos días. Por byteMing.", "feedback": "Comentarios" },
+  "quiz": {
+    "title": "Modo Quiz",
+    "selectMode": "Elige el modo:",
+    "practiceMode": "Modo Práctica",
+    "testMode": "Examen Oficial (Formato USCIS)",
+    "practiceDesc": "Practica con retroalimentación instantánea y 10 preguntas de muestra",
+    "testDesc": "Simula el examen real: hasta 20 preguntas, necesitas 12+ para aprobar",
+    "selectCategory": "Selecciona una categoría:",
+    "categoryGov": "Gobierno",
+    "categoryHistory": "Historia",
+    "categoryCivics": "Educación Cívica Integrada",
+    "allQuestions": "Todas las preguntas",
+    "pass": "APROBADO",
+    "fail": "REPROBADO",
+    "needToPass": "Necesitas {min}+ para aprobar",
+    "passMessage": "¡Felicitaciones! Aprobaste con {correct} de {total} correctas. (Necesitas 12+ para aprobar)",
+    "failMessage": "Obtuviste {correct} de {total}. Necesitas al menos 12 respuestas correctas para aprobar.",
+    "questionCount": "Pregunta {current} de {total}",
+    "percent": "{percent}%",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "viewResults": "Ver resultados",
+    "complete": "¡Quiz completado!",
+    "score": "¡Has acertado {correct} de {total}!",
+    "tryAgain": "Intentar de nuevo",
+    "backHome": "Volver al inicio",
+    "noQuestions": "No hay preguntas disponibles."
+  },
+  "flashcards": {
+    "title": "Tarjetas de Estudio",
+    "selectCategory": "Selecciona una categoría:",
+    "categoryGov": "Gobierno",
+    "categoryHistory": "Historia",
+    "categoryCivics": "Educación Cívica Integrada",
+    "cardCount": "Tarjeta {current} de {total}",
+    "question": "Pregunta",
+    "answer": "Respuesta",
+    "clickToFlip": "Haz clic para voltear",
+    "clickToFlipBack": "Haz clic para volver",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "tip": "Consejo: Espacio para voltear, ←/→ para navegar",
+    "all": "Todas",
+    "noCards": "No hay tarjetas disponibles."
+  },
+  "resources": {
+    "title": "Recursos de escucha y estudio",
+    "youtube": "Listas de reproducción de YouTube",
+    "official": "Recursos oficiales de USCIS",
+    "community": "Otros enlaces útiles"
+  },
+  "feedback": {
+    "title": "Envíanos tus comentarios",
+    "subtitle": "Cuéntanos qué mejorar o sugiere recursos.",
+    "email": "Tu correo (opcional)",
+    "message": "Tus comentarios...",
+    "submit": "Enviar"
+  }
+}
+
+
