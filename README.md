@@ -4,7 +4,7 @@
 
 A free, open-source, and multi-lingual web app to help aspiring U.S. citizens practice for the civics portion of the naturalization test using interactive quizzes and flashcards.
 
-**[➡️ Visit the Live Demo](https://us-citizenship-qa.vercel.app/en)** ![Project Screenshot](<img width="1154" height="833" alt="Screenshot 2025-10-31 at 3 51 12 AM" src="https://github.com/user-attachments/assets/79e27160-9fff-4f3b-bcf7-cb2416b1c74d" />) ---
+**[➡️ Visit the Live Demo](https://us-citizenship-qa.vercel.app/en)**
 
 ## 💡 Project Origin: Solving a Real Problem
 
