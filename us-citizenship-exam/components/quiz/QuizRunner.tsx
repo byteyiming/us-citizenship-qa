@@ -1,8 +1,10 @@
 "use client";
 import { useEffect, useMemo, useState } from 'react';
 import { useQuizStore } from '@/lib/store';
-import { ArrowLeft, ArrowRight, CheckCircle2, XCircle, RotateCcw, Home } from 'lucide-react';
+import { ArrowLeft, ArrowRight, CheckCircle2, XCircle, RotateCcw, Home, Volume2, VolumeX } from 'lucide-react';
 import { useTranslations } from 'next-intl';
+import { useTTS } from '@/lib/useTTS';
+import type { Locale } from '@/lib/questions';
 
 type Question = {
   id: string;
@@ -28,6 +30,20 @@ export default function QuizRunner({
   const { answersByQuestionId, setAnswer, setAllAnswers, reset, starredIds, toggleStar } = useQuizStore();
   const isTestMode = mode === 'test';
   const PASS_THRESHOLD = 12;
+
+  // Extract locale from storageKey (format: "locale:mode:category")
+  const locale = useMemo(() => {
+    const loc = storageKey.split(':')[0];
+    return (loc === 'en' || loc === 'es' || loc === 'zh') ? loc : 'en';
+  }, [storageKey]) as Locale;
+
+  const tts = useTTS(locale);
+
+  // Stop TTS when question changes
+  useEffect(() => {
+    tts.stop();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [index]);
 
   // Load persisted answers
   useEffect(() => {
@@ -211,7 +227,29 @@ export default function QuizRunner({
 
       {/* Question Card */}
       <div className="rounded-2xl bg-white p-8 shadow-sm">
-        <h2 className="mb-8 text-2xl font-bold leading-relaxed text-slate-900">{q.text}</h2>
+        <div className="mb-6 flex items-start justify-between gap-4">
+          <h2 className="flex-1 text-2xl font-bold leading-relaxed text-slate-900">{q.text}</h2>
+          {tts.isSupported && (
+            <button
+              onClick={() => {
+                if (tts.state === 'speaking') {
+                  tts.stop();
+                } else {
+                  tts.speak(q.text);
+                }
+              }}
+              className="flex-shrink-0 rounded-lg border-2 border-slate-200 bg-white p-2 text-slate-600 transition-colors hover:border-blue-400 hover:bg-blue-50 hover:text-blue-600"
+              title={tts.state === 'speaking' ? 'Stop reading' : 'Read aloud'}
+              aria-label={tts.state === 'speaking' ? 'Stop reading' : 'Read aloud'}
+            >
+              {tts.state === 'speaking' ? (
+                <VolumeX className="h-5 w-5" />
+              ) : (
+                <Volume2 className="h-5 w-5" />
+              )}
+            </button>
+          )}
+        </div>
 
         {/* Answer Options */}
         <div className="space-y-3">
@@ -248,22 +286,41 @@ export default function QuizRunner({
             }
 
             return (
-              <button
-                key={i}
-                disabled={!isTestMode && isAnswered}
-                onClick={() => handleAnswer(q.id, key)}
-                className={buttonClass}
-              >
-                <div className="flex items-center justify-between">
-                  <span>{opt}</span>
-                  {!isTestMode && isAnswered && isCorrectAnswer && (
-                    <CheckCircle2 className="h-5 w-5 text-green-600" />
-                  )}
-                  {!isTestMode && isAnswered && wasSelected && !isCorrectAnswer && (
-                    <XCircle className="h-5 w-5 text-red-600" />
-                  )}
-                </div>
-              </button>
+              <div key={i} className="relative">
+                <button
+                  disabled={!isTestMode && isAnswered}
+                  onClick={() => handleAnswer(q.id, key)}
+                  className={buttonClass}
+                >
+                  <div className="flex items-center justify-between pr-8">
+                    <span>{opt}</span>
+                    {!isTestMode && isAnswered && isCorrectAnswer && (
+                      <CheckCircle2 className="h-5 w-5 text-green-600" />
+                    )}
+                    {!isTestMode && isAnswered && wasSelected && !isCorrectAnswer && (
+                      <XCircle className="h-5 w-5 text-red-600" />
+                    )}
+                  </div>
+                </button>
+                {tts.isSupported && (
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      if (tts.state === 'speaking') {
+                        tts.stop();
+                      } else {
+                        tts.speak(opt);
+                      }
+                    }}
+                    className="absolute right-2 top-1/2 -translate-y-1/2 rounded-md border border-slate-300 bg-white p-1.5 text-slate-500 opacity-60 transition-all hover:border-blue-400 hover:bg-blue-50 hover:opacity-100 hover:text-blue-600 focus:opacity-100"
+                    title="Read this option aloud"
+                    aria-label="Read this option aloud"
+                    onMouseDown={(e) => e.stopPropagation()}
+                  >
+                    <Volume2 className="h-4 w-4" />
+                  </button>
+                )}
+              </div>
             );
           })}
         </div>

@@ -4,9 +4,9 @@ import { getTranslations } from 'next-intl/server';
 import type { Metadata } from 'next';
 
 export async function generateMetadata(
-  { params }: { params: { locale: 'en'|'es'|'zh' } }
+  { params }: { params: Promise<{ locale: 'en'|'es'|'zh' }> }
 ): Promise<Metadata> {
-  const { locale } = params;
+  const { locale } = await params;
   const dict = {
     en: {
       title: 'Flashcards | U.S. Civics Study Hub',

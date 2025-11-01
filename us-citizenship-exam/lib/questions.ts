@@ -15,8 +15,8 @@ const CATEGORY_BY_LOCALE: Record<Locale, Record<'gov'|'history'|'civics', string
     civics: 'Integrated Civics'
   },
   es: {
-    gov: 'Gobierno',
-    history: 'Historia',
+    gov: 'Gobierno Americano',
+    history: 'Historia Americana',
     civics: 'Educación Cívica Integrada'
   },
   zh: {

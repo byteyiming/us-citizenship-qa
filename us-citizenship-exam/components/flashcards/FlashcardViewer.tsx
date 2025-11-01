@@ -1,8 +1,10 @@
 "use client";
 import { useEffect, useMemo, useState } from 'react';
-import { ArrowLeft, ArrowRight, RotateCw } from 'lucide-react';
-import { useTranslations } from 'next-intl';
+import { ArrowLeft, ArrowRight, RotateCw, Volume2, VolumeX } from 'lucide-react';
+import { useTranslations, useLocale } from 'next-intl';
 import { useQuizStore } from '@/lib/store';
+import { useTTS } from '@/lib/useTTS';
+import type { Locale } from '@/lib/questions';
 
 type Card = {
   id: string;
@@ -13,6 +15,9 @@ type Card = {
 
 export default function FlashcardViewer({ cards }: { cards: Card[] }) {
   const t = useTranslations('flashcards');
+  const localeParam = useLocale();
+  const locale = (localeParam === 'en' || localeParam === 'es' || localeParam === 'zh' ? localeParam : 'en') as Locale;
+  const tts = useTTS(locale);
   const [index, setIndex] = useState(0);
   const [show, setShow] = useState(false);
   const [filter, setFilter] = useState<'all'|'starred'|'missed'>('all');
@@ -22,6 +27,12 @@ export default function FlashcardViewer({ cards }: { cards: Card[] }) {
     if (filter === 'missed') return cards.filter(c => lastIncorrectIds.has(c.id));
     return cards;
   }, [filter, cards, starredIds, lastIncorrectIds]);
+
+  // Stop TTS when card changes
+  useEffect(() => {
+    tts.stop();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [index]);
 
   // keyboard shortcuts
   useEffect(() => {
@@ -85,9 +96,32 @@ export default function FlashcardViewer({ cards }: { cards: Card[] }) {
               <div className="mb-4 rounded-full bg-blue-100 px-4 py-1 text-xs font-semibold uppercase tracking-wide text-blue-700">
                 {t('question')}
               </div>
-              <p className="max-w-xl text-center text-2xl font-bold leading-relaxed text-slate-900">
-                {c.text}
-              </p>
+              <div className="relative flex w-full max-w-xl flex-col items-center gap-3">
+                <p className="text-center text-2xl font-bold leading-relaxed text-slate-900">
+                  {c.text}
+                </p>
+                {tts.isSupported && !show && (
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      if (tts.state === 'speaking') {
+                        tts.stop();
+                      } else {
+                        tts.speak(c.text);
+                      }
+                    }}
+                    className="rounded-lg border-2 border-slate-200 bg-white p-2 text-slate-600 transition-colors hover:border-blue-400 hover:bg-blue-50 hover:text-blue-600"
+                    title={tts.state === 'speaking' ? 'Stop reading' : 'Read question aloud'}
+                    aria-label={tts.state === 'speaking' ? 'Stop reading' : 'Read question aloud'}
+                  >
+                    {tts.state === 'speaking' ? (
+                      <VolumeX className="h-5 w-5" />
+                    ) : (
+                      <Volume2 className="h-5 w-5" />
+                    )}
+                  </button>
+                )}
+              </div>
               <div className="mt-6 flex items-center gap-2 text-sm text-slate-500">
                 <RotateCw className="h-4 w-4" />
                 <span>{t('clickToFlip')}</span>
@@ -99,9 +133,32 @@ export default function FlashcardViewer({ cards }: { cards: Card[] }) {
               <div className="mb-4 rounded-full bg-green-100 px-4 py-1 text-xs font-semibold uppercase tracking-wide text-green-700">
                 {t('answer')}
               </div>
-              <p className="max-w-xl text-center text-2xl font-bold leading-relaxed text-green-700">
-                {answerText}
-              </p>
+              <div className="relative flex w-full max-w-xl flex-col items-center gap-3">
+                <p className="text-center text-2xl font-bold leading-relaxed text-green-700">
+                  {answerText}
+                </p>
+                {tts.isSupported && show && (
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      if (tts.state === 'speaking') {
+                        tts.stop();
+                      } else {
+                        tts.speak(answerText);
+                      }
+                    }}
+                    className="rounded-lg border-2 border-slate-200 bg-white p-2 text-slate-600 transition-colors hover:border-green-400 hover:bg-green-50 hover:text-green-600"
+                    title={tts.state === 'speaking' ? 'Stop reading' : 'Read answer aloud'}
+                    aria-label={tts.state === 'speaking' ? 'Stop reading' : 'Read answer aloud'}
+                  >
+                    {tts.state === 'speaking' ? (
+                      <VolumeX className="h-5 w-5" />
+                    ) : (
+                      <Volume2 className="h-5 w-5" />
+                    )}
+                  </button>
+                )}
+              </div>
               <div className="mt-6 flex items-center gap-2 text-sm text-slate-500">
                 <RotateCw className="h-4 w-4" />
                 <span>{t('clickToFlipBack')}</span>
